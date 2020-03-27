@@ -1,0 +1,14 @@
+{
+  "name": "redix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-redux-worker": "^0.1.9",
+    "redux": "^2.0.0 || ^3.0.0 || ^4.0.0-0",
+    "redux-in-worker": "^0.7.0"
+  }
+}
