@@ -8,12 +8,13 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "parcel-bundler": "^1.12.4",
     "react": "^16.8.3",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-redux-worker": "^0.1.9",
-    "redux": "^2.0.0 || ^3.0.0 || ^4.0.0-0",
-    "redux-in-worker": "^0.7.0"
+    "redux": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
